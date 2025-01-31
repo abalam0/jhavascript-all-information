@@ -32,3 +32,6 @@ if (pamentmethod === 'bikash') {
         console.log("You have got 100 taka discount for using Visa Card!");
     }
 }
+
+
+
